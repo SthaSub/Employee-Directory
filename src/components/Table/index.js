@@ -25,7 +25,7 @@ function Table(props) {
                         </td>
                         <td>{user.name}</td>
                         <td>{user.phone}</td>
-                        <td>{user.email}</td>
+                        <td><a href="#">{user.email} </a></td>
                         <td>{user.dob}</td>
                     </tr>
                 )}
