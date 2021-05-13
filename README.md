@@ -40,7 +40,8 @@
   ![employeeDictory](./public/dashboard.PNG)
 
   ## deployed
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://budget-transcation.herokuapp.com/)
+  This application is deployed on github pages, 
+  to see running application simply go through this link : [user directory](https://sthasub.github.io/Employee-Directory/)
   
   ## Questions
     if you have questions then please feel free to contact on these addresses,
